@@ -1,8 +1,6 @@
 package es.neesis.annotations;
 
-import es.neesis.annotations.applications.AutowiredApplication;
 import es.neesis.annotations.applications.ConstructorApplication;
-import es.neesis.annotations.applications.NewApplication;
 import es.neesis.annotations.configuration.AppConfig;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

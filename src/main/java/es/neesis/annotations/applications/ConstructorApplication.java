@@ -1,6 +1,5 @@
 package es.neesis.annotations.applications;
 
-import es.neesis.annotations.services.IMailService;
 import org.springframework.stereotype.Component;
 import es.neesis.annotations.services.ICalculadora;
 
