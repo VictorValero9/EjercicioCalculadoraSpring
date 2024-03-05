@@ -16,4 +16,5 @@ public class ConstructorApplication {
         public void testFunction(){
             calculadora.testFunction();
         }
+        public void menu(){calculadora.menu();}
 }
